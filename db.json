@@ -1,0 +1,39 @@
+
+  [
+    {
+        "id":"99f00dd8-d58f-49da-96c2-12b377362477",
+      "title": "discount 15% for coupon code 'LUCKY ONE' or the bill is more then 1000 bath",
+      "isPresentCode": false,
+      "code": "LUCKY ONE",
+      "discount": 0.15,
+      "overCost": 1000,
+      "seat": 0
+    },
+    {
+        "id": "99f00dd8-d58f-49da-96c2-12b377362478",
+      "title": "come 4 pay 3 when they present coupon code as '4PAY3'",
+      "isPresentCode": true,
+      "code": "4PAY3",
+      "discount": 0.25,
+      "overCost": 0,
+      "seat": 4
+    },
+    {
+        "id": "99f00dd8-d58f-49da-96c2-12b377362479",
+      "title": "discount 20% for 2 customer when they present a coupon code 'LUCKY TWO'",
+      "isPresentCode": true,
+      "code": "LUCKY TWO",
+      "discount": 0.2,
+      "overCost": 0,
+      "seat": 2
+    },
+    {
+        "id": "99f00dd8-d58f-49da-96c2-12b377362480",
+      "title": "discount 25% when the bill is over 6000 bath but it exclude all promotion.",
+      "isPresentCode": false,
+      "code": null,
+      "discount": 0.25,
+      "overCost": 6000,
+      "seat": 0
+    }
+  ]
